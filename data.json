@@ -1,0 +1,21 @@
+{
+  "events": [
+    {
+      "id": "sample01",
+      "title": "Freshers’ Welcome Party",
+      "date": "2026-11-20",
+      "venue": "Main Hall",
+      "category": "Social",
+      "status": "active"
+    },
+    {
+      "id": "8f0b8cb8",
+      "title": "jjj",
+      "date": "2027-11-05",
+      "venue": "Nile house",
+      "category": "Academic",
+      "status": "active"
+    }
+  ],
+  "regs": []
+}

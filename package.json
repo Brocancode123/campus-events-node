@@ -1,0 +1,8 @@
+{
+  "name": "campus-events",
+  "version": "1.0.0",
+  "description": "Campus event registration and management system",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" }
+}
